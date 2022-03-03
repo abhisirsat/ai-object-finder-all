@@ -1,0 +1,28 @@
+.heading{
+
+font-size: 20px;
+width: 100%;
+margin-top: 0;
+}
+
+.search {
+
+width: 30%;
+
+}
+
+canvas{
+
+    border:2px solid white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 130px;
+    
+    }
+
+body{
+
+background-size: cover;
+background-position: center;
+
+}
